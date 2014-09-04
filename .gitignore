@@ -48,12 +48,11 @@ coverage.xml
 # Django stuff:
 *.log
 *.pot
+*.txt
 
 # Sphinx documentation
 docs/_build/
 run_dir/
 data_dir/
-*.log
-*.txt
 lastSource
 Core
